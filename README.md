@@ -1,7 +1,10 @@
 # Assignment 1
  - [x] Create an `ordered and unordered` list of your `likes and dislikes`.
+
  - [x] Give `class names and id names` to both `parent tags and children tags`.
+
  - [x] Give stylings to them using both their class names and id to understand `specificity` as well as an `inheritance` on stylings.
+ 
  - [x] Create a repository and push your codes to it. Submit the GitHub link to your actual work.
 
 # Assignment 2
