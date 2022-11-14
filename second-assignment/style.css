@@ -24,21 +24,21 @@
 
         #git_github {
             border: 2px solid green;
-            border-radius: 5px;
+            border-radius: 10px;
             padding: 15px;
             margin: 10px;
         }
 
         #html {
             border: 2px solid blue;
-            border-radius: 5px;
+            border-radius: 10px;
             padding: 15px;
             margin: 10px;
         }
 
         #css {
             border: 2px solid black;
-            border-radius: 5px;
+            border-radius: 10px;
             padding: 15px;
             margin: 10px;
         }
