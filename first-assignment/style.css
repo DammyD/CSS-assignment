@@ -1,6 +1,5 @@
 #ordered_list {
     background-color: blue;
-   /* color: beige;*/
     list-style-type: number;
     line-height: 1.5;
     font-size: 18px;
@@ -17,11 +16,7 @@
     font-size: 18px;
 }
 
-#unordered_list .dislikes {
-color: brown;
-}
-
 .dislikes {
     background-color: blanchedalmond;
-    color: violet;
+    color: brown;
 }
